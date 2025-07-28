@@ -1,100 +1,96 @@
-<!-- 🚩 Eye-catching Animated Banner at Top (edit assets/animated_banner.gif as desired) -->
+<!-- 🔥 Animated Header Banner (Place your custom GIF in assets/) -->
 <p align="center">
-  <img src="assets/animated_banner.gif" alt="Animated Banner" width="800"/>
+  <img src="assets/animated_super_banner.gif" alt="Animated Portfolio Banner" width="900"/>
 </p>
 
-# 👋 Hi, I'm Bhoomika H S
-
+# 👋 Hi, I'm Bhoomika H S  
 *Enthusiastic Information Science Engineer | Data Science • Machine Learning • Web Development*
 
-<!-- Animated waving hand emoji -->
-<p align="left">
+<!-- Dynamic Emoji Animation (Optional) -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"/>
+  <img src="assets/welcome_orbit.gif" width="60"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bhoomikahs20)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bhooomika-h-s)
-[![Download My CV](https://img.shields.io/badge/View%20CV-PDF-red?style=flat-square&logo=adobeacrobatreader)](./Bhoomika-H-S.pdf)
+[![Resume](https://img.shields.io/badge/Download%20CV-Red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Bhoomika-H-S.pdf)
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BE in Information Science (CGPA: 8.2/10), Visvesvaraya Technological University
-- 🏢 Internships: Snipe Tech Pvt. Ltd. (AI/ML), Bluestock Fintech (Backend)
-- 💻 Python, Django, FastAPI, ML, Visualization, REST APIs
-- 🥇 Passionate about building impactful technology and solving real-world problems
+- 🎓 BE in Information Science (CGPA: 8.2/10), Visvesvaraya Technological University  
+- 🏢 Internships: Snipe Tech (AI/ML), Bluestock Fintech (Backend)  
+- 💻 Passionate about Python, Django, FastAPI, ML, Visualization, REST APIs  
+- 🌎 Enthusiastic about tech communities & building impactful, innovative solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- Animated icons using shields.io and SVG animations -->
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
----
-
-## 🧑‍💻 Projects
-
-| Project                              | Technologies                    | Description                                                       |
-|---------------------------------------|----------------------------------|-------------------------------------------------------------------|
-| Earthquake Prediction                 | RNN, LSTM, Transformers         | Magnitude & location prediction from USGS data                    |
-| Lung Cancer Detection                 | SVM, Random Forest, Regression  | ML for diagnosis & progression tracking                           |
-| IPO Web App & REST API                | Django, PostgreSQL, HTML/CSS/JS | Full-stack IPO management web application                         |
-| Automated Code Review System (AI)     | FastAPI, CodeBERT, Docker, GCP  | AI-driven bug prediction, code analysis & review                  |
-
-<!-- Project GIF sample (replace project_demo.gif with your GIF) -->
+<!-- Animated Tech Logos (replace GIF/SVG file names as needed in assets/) -->
 <p align="center">
-  <img src="assets/project_demo.gif" width="500"/>
+  <img src="assets/python_animated.gif" width="60"/>
+  <img src="assets/django_spin.gif" width="60"/>
+  <img src="assets/fastapi_motion.gif" width="60"/>
+  <img src="assets/tableau_pulse.gif" width="60"/>
+  <img src="assets/powerbi_chart.gif" width="60"/>
+  <img src="assets/googlecloud_dynamic.gif" width="60"/>
+  <img src="assets/mongodb_wave.gif" width="60"/>
+  <img src="assets/tensorflow_cycle.gif" width="60"/>
+  <img src="assets/html5_bounce.gif" width="46"/>
+  <img src="assets/css3_rotate.gif" width="46"/>
+  <img src="assets/javascript_flip.gif" width="46"/>
 </p>
 
 ---
 
-## 📄 Download CV
+## 🧑‍💻 Key Projects
 
-📎 [Bhoomika-H-S.pdf](./Bhoomika-H-S.pdf)
+| Project                              | Logos / Tech         | Description                                        |
+|---------------------------------------|----------------------|----------------------------------------------------|
+| Earthquake Prediction                 | ![RNN](assets/rnn_animated.gif) ![LSTM](assets/lstm_animated.gif) | Magnitude & location prediction from USGS data       |
+| Lung Cancer Detection                 | ![SVM](assets/svm_pulse.gif) ![RF](assets/rf_motion.gif) | ML-powered diagnosis & progression tracking          |
+| IPO Web App & REST API                | ![Django](assets/django_spin.gif) ![Postgres](assets/postgres_twist.gif) | Full-stack IPO management with dashboards            |
+| Automated Code Review (AI)            | ![FastAPI](assets/fastapi_motion.gif) ![CodeBERT](assets/codebert_spin.gif) | AI-driven bug finding/code analysis                  |
 
----
-
-## ✨ Animations & Fun
-
-- 😄 _I'm always excited to learn new frameworks and algorithms!_
-- 🎨 _See my animated banner and project demo above._
-- 🎯 _Blending logic and creativity with each project._
-
-<!-- Sample animated SVG below (replace with your own if desired) -->
+<!-- Demo GIF (swap for your project/app showcase GIFs) -->
 <p align="center">
-  <img src="assets/animated_github.svg" width="120"/>
-</p>
-
-<!-- Optional: Typing animation GIF (customize or remove if not available) -->
-<p align="center">
-  <img src="assets/typing_animation.gif" width="250"/>
+  <img src="assets/project_showcase.gif" alt="Demo Animation" width="600"/>
 </p>
 
 ---
 
-## 📫 Contact
+## 📄 Download My CV
 
-- Email: bhoomikahs20@gmail.com
-- LinkedIn: [bhoomikahs20](https://linkedin.com/in/bhoomikahs20)
+[Click here to view/download Bhoomika-H-S.pdf!](./Bhoomika-H-S.pdf)
+
+---
+
+## 🎉 Fun Effects & Animations
+
+- 💡 Always learning, always building
+- 🔥 Animated logos above highlight my favorite tools
+- 🌈 Project GIF shows a real app in action—visual proof beats text!
+- ✍️ _Check out the fun typing effect below (customize your own!)_
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="assets/typing_animation.gif" width="350"/>
+</p>
+
+---
+
+## 🌐 Get in Touch
+
+- Email: bhoomikahs20@gmail.com  
+- LinkedIn: [bhoomikahs20](https://linkedin.com/in/bhoomikahs20)  
 - GitHub: [bhooomika-h-s](https://github.com/bhooomika-h-s)
 
 > “Solving problems with code and creativity, one project at a time.”
 
 ---
 
-<!-- Badges and templates inspired by: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Inspiration badges & templates: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
